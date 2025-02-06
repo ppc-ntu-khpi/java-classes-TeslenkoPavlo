@@ -17,7 +17,7 @@
 ## Додати методи для зміни атрибутів - setID, setStatus, setTotal з відповідними параметрами та перевіркою присвоюваних значень (можуть або нічого не повертати, або повертати булевське значення, див. відеозапис лекції).
 ![](https://github.com/ppc-ntu-khpi/java-classes-TeslenkoPavlo/blob/main/Solution/5.png?raw=true)
 
-## Використати ці методи в методі в методі main класуCustomerTest
+## Використати ці методи в методі main класу CustomerTest
 ![](https://github.com/ppc-ntu-khpi/java-classes-TeslenkoPavlo/blob/main/Solution/6.png?raw=true)
 
 ## Скріншот результатів роботи програми
